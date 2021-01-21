@@ -16,6 +16,6 @@ Create database "test_majoo"
 Run command for initialize.
 - go run main.go
 
-Create initial User in database for testing purpose.
+Create initial User in database for testing purpose, fill the username, password (bcrypt hashed), full_name field in users table.
 
 Done.
