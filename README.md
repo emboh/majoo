@@ -12,5 +12,10 @@ Install dependecies.
 - go get golang.org/x/crypto/bcrypt
 
 Create database "test_majoo"
-- Run command.
-	> go run main.go
+
+Run command for initialize.
+- go run main.go
+
+Create initial User in database for testing purpose.
+
+Done.
